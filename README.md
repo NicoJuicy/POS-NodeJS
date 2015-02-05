@@ -1,16 +1,13 @@
-Node.js Bootstrap Starter Template
+Node.js Pos example
 ===
 
-A quick and easy Node.js + Jade template project, using Twitter Bootstrap.
+A quick and easy Node.js + Jade template project, using Twitter Bootstrap with MetroUI.
 
 ##Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
 - Next, run the app by entering: node app
 - Browse to http://localhost:3000
-
-##Demo:
-http://nodebootstrapper.herokuapp.com
 
 ##Contents:
 
@@ -32,5 +29,6 @@ block content
 		p Hello World
 ```
 
-##Author
-Kory Becker http://www.primaryobjects.com/kory-becker.aspx
+##Libraries used
+express
+Metro UI => http://metroui.org.ua/start-screen.html
