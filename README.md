@@ -49,3 +49,5 @@ http://dotnet.dzone.com/articles/intro-git (alternatief voor bovenstaande)
 http://linuxcommand.org/learning_the_shell.php (te lezen: Looking arround,Manipulating files [voorlopig NIET DE REST])
 SSH ( = een terminal op afstand, zo kan je alles beheren van een Linux pc)
 
+###Layout (html/css/js)
+http://getbootstrap.com/ (Voorlopig enkel Bootstrap snappen (niet vanbuiten weten, maak evt. een testproject of zo))
