@@ -18,19 +18,6 @@ header.jade
 footer.jade
 index.jade
 
-##Editing Pages:
-
-Edit views/index.jade to add your content. The default contents include:
-
-```
-extends layout
-
-block content
-	div.container
-		h1 Program Name
-		p Hello World
-```
-
 ##Libraries used
 express
 Metro UI => http://metroui.org.ua/start-screen.html
