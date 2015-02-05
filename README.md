@@ -1,6 +1,8 @@
 Node.js Pos example
 ===
 
+Ki kijken hoe goed je kan volgen éh Danny Boy :P
+
 A quick and easy Node.js + Jade template project, using Twitter Bootstrap with MetroUI.
 
 ##Usage
